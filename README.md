@@ -16,9 +16,9 @@ Every completion of my task I showed with my group member first and getting very
 Screenshorts of completed work result: 
 <br>
 Please refere my TestingImages folder to check my works and I have completed project tasks which are: 
-•	User password encryption
-•	Implement a security user control policy, which idle time before logout and locking a user's account after number of failed attempts. 
-•	The prevention of cross site scripting vulnerabilities to avoid the XSS Attacks. So far, I have blocked users from inputting malicious codes via the URL and forms into the our web application. 
-•	Vulnerability check to protect our web applications.
+<br>•	User password encryption
+<br>•	Implement a security user control policy, which idle time before logout and locking a user's account after number of failed attempts. 
+<br>•	The prevention of cross site scripting vulnerabilities to avoid the XSS Attacks. I have blocked users from inputting malicious codes via the URL and forms into the our web application. 
+<br>•	Vulnerability check to protect our web applications.
 
 
