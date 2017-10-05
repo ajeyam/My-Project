@@ -13,3 +13,12 @@ Feedback result:
 <br>
 Every completion of my task I showed with my group member first and getting very good feedback and appreciation from them. I believed feedback is very important that boost more interest. My group members are always happy with my work as different user's point of view. I showed my work to my client and client also satisfied with working style and gives me great feedback. I had client that client is my supervisor as well. I got good feedback and sometime not, but it is a learning curve to me to move forward to achieve successful.
 
+Screenshorts of completed work result: 
+<br>
+Please refere my TestingImages folder to check my works and I have completed project tasks which are: 
+•	User password encryption
+•	Implement a security user control policy, which idle time before logout and locking a user's account after number of failed attempts. 
+•	The prevention of cross site scripting vulnerabilities to avoid the XSS Attacks. So far, I have blocked users from inputting malicious codes via the URL and forms into the our web application. 
+•	Vulnerability check to protect our web applications.
+
+
