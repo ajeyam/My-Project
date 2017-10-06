@@ -1,4 +1,3 @@
-
 <?php
 
 	session_start();
@@ -162,3 +161,4 @@
 	oci_close($connect);
 	header('Location: ' . $location);
 	exit;
+?>
