@@ -6,7 +6,7 @@
 	
 	$_SESSION['error'] = array();
 
-	// gets username and password.
+	// Gets username and password.
   $username = $config->filter_input($_GET['username']);
   $submit = $_GET['submit'];
 
