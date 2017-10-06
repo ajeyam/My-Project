@@ -11,7 +11,7 @@ I assigned as one of the Security team member of this project. I am responsibili
 
 <b>Screenshorts of completed work result</b>
 <br>
-Please refer to the TestingImages folder attachment to check my works.
+Please refer to the TestingImages folder and MyProject-Task-Related-Files folder attachment to check my works.
 
 <b>Feedback result</b>
 <br>
