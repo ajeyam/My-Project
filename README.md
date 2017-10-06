@@ -15,7 +15,7 @@ Please refer to the TestingImages folder and MyProject-Task-Related-Files folder
 
 <b>Feedback result</b>
 <br>
-Every completion of my task I showed with my group member first and getting very good feedback and appreciation from them. I believed feedback is very important that boost more interest. My group members are always happy with my work as different user's point of view. I showed my work to my client and client also satisfied with working style and gives me great feedback. I had client that client is my supervisor as well. I got good feedback and sometime not, but it is a learning curve to me to move forward to achieve successful.
+Every completion of my task I showed with my group member first and getting very good feedback and appreciation from them. I believed feedback is very important that boost more interest. My group members are always happy with my work as different user's point of view. I showed my work to my client and satisfied with my working style. Supervisor is one of our client. I got good feedback and sometime not, but it is a learning curve to me to move forward to achieve successful.
 
 
 
