@@ -1,0 +1,16 @@
+######### Cross Site Scripting Attack Testing Codes ############ 
+
+I have blocked users from inputting malicious codes via the url 
+and forms into the system.This way attackers are unable to corrupt the database.
+I have also add script data filtering into the system
+
+Test code 1: 
+
+<script>alert('hello');</script>
+
+Test code 2: 
+<iframe src="facebook.com"></iframe>
+
+Test code 3: 
+
+<script>alert("xss")</script>
